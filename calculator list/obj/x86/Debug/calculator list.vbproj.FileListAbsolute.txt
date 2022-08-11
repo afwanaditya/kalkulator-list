@@ -1,0 +1,9 @@
+C:\Users\INTEL NUC\Documents\projek afwan aditya\calculator list\calculator list\bin\Debug\calculator list.exe
+C:\Users\INTEL NUC\Documents\projek afwan aditya\calculator list\calculator list\bin\Debug\calculator list.pdb
+C:\Users\INTEL NUC\Documents\projek afwan aditya\calculator list\calculator list\bin\Debug\calculator list.xml
+C:\Users\INTEL NUC\Documents\projek afwan aditya\calculator list\calculator list\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\INTEL NUC\Documents\projek afwan aditya\calculator list\calculator list\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\INTEL NUC\Documents\projek afwan aditya\calculator list\calculator list\obj\x86\Debug\calculator list.vbproj.GenerateResource.Cache
+C:\Users\INTEL NUC\Documents\projek afwan aditya\calculator list\calculator list\obj\x86\Debug\calculator list.exe
+C:\Users\INTEL NUC\Documents\projek afwan aditya\calculator list\calculator list\obj\x86\Debug\calculator list.xml
+C:\Users\INTEL NUC\Documents\projek afwan aditya\calculator list\calculator list\obj\x86\Debug\calculator list.pdb
